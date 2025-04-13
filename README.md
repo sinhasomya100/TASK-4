@@ -62,3 +62,10 @@ Conclusion ✅
 This task helped me strengthen my ability to build business dashboards that not only look good but also deliver real, actionable insights.
 I focused on creating something simple, clean, and interactive — just the way a stakeholder would want to see their data.
 
+Created by: Somya Sinha
+
+I am open to any queries,discussions and questions.
+
+Thank you
+
+www.linkedin.com/in/somyasinha100
