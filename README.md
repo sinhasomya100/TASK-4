@@ -50,7 +50,7 @@ What I Learned 📚
 Files in This Repo 📁
 - Task 4.pbix (Power BI dashboard)
 - Mobile_Sales_Dashboard_Summary.pptx (PPT summary of dashboard)
-- Interview answers ,screenshots of dashboard with different slicers and MMobile Sales Database
+- Interview answers ,screenshot of dashboard  and Mobile Sales Database
 
 How to Explore My Work 🔍
 - Download and open the .pbix file in Power BI Desktop
